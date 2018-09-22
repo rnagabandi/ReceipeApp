@@ -1,0 +1,9 @@
+<div class="input-group">
+        <input type="button" value="Add New Recipe" (click)="addNewRecipe()" />
+    </div>
+<h3> These our recipes </h3>
+
+<div *ngFor="let recipe of recipes">
+    <app-recipe-summery [recipe]="recipe" (zoomIn)="zoomInOnRecipe(recipe)" (userClick)="userClickedOnRecipe($event)"> </app-recipe-summery>
+</div>
+

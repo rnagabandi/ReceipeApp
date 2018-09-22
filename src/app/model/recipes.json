@@ -1,0 +1,78 @@
+[
+    {
+        "id" : 1,
+        "title": "Banana Bread",
+        "description": "This is my favorite bana bread! My monther tought me how to make this",
+        "feeds_this_many": 4 ,
+        "preparation_time": 60,
+        "ingradients": [
+            {"ingradient": "plain four" , "measure": "285gm"},
+            {"ingradient": "plain salt" , "measure": "285gm"},
+            {"ingradient": "eggs" , "measure": "10"},
+            {"ingradient": "masla powder" , "measure": "285gm"},
+            {"ingradient": "curd" , "measure": "285gm"}
+        ],
+        "instructions": [
+            {"instruction": "Heat the stove" ,"photo": null},
+            {"instruction": "add the floor" ,"photo": null},
+            {"instruction": "add the eggs" ,"photo": null},
+            {"instruction": "soak with eggs" ,"photo": null}
+        ],
+        "cover_photo": null,
+        "keywords": [
+            "banana" , "bread", "cake", "desert"
+        ]
+
+    },
+    {
+        "id" : 2,
+        "title": "Egg Bread",
+        "description": "This is my favorite egg bread! My monther tought me how to make this",
+        "feeds_this_many": 4 ,
+        "preparation_time": 60,
+        "ingradients": [
+            {"ingradient": "plain four" , "measure": "285gm"},
+            {"ingradient": "plain salt" , "measure": "285gm"},
+            {"ingradient": "eggs" , "measure": "10"},
+            {"ingradient": "masla powder" , "measure": "285gm"},
+            {"ingradient": "curd" , "measure": "285gm"}
+        ],
+        "instructions": [
+            {"instruction": "Heat the stove" ,"photo": null},
+            {"instruction": "add the floor" ,"photo": null},
+            {"instruction": "add the eggs" ,"photo": null},
+            {"instruction": "soak with eggs" ,"photo": null}
+        ],
+        "cover_photo": null,
+        "keywords": [
+            "banana" , "bread", "cake", "desert"
+        ]
+
+    },
+    {
+        "id" : 3,
+        "title": "chicken Bread",
+        "description": "This is my favorite chicken bread! My monther tought me how to make this",
+        "feeds_this_many": 4 ,
+        "preparation_time": 60,
+        "ingradients": [
+            {"ingradient": "plain four" , "measure": "285gm"},
+            {"ingradient": "plain salt" , "measure": "285gm"},
+            {"ingradient": "eggs" , "measure": "10"},
+            {"ingradient": "masla powder" , "measure": "285gm"},
+            {"ingradient": "curd" , "measure": "285gm"}
+        ],
+        "instructions": [
+            {"instruction": "Heat the stove" ,"photo": null},
+            {"instruction": "add the floor" ,"photo": null},
+            {"instruction": "add the eggs" ,"photo": null},
+            {"instruction": "soak with eggs" ,"photo": null}
+        ],
+        "cover_photo": null,
+        "keywords": [
+            "banana" , "bread", "cake", "desert"
+        ]
+
+    }
+
+]
